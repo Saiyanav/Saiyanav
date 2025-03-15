@@ -9,5 +9,3 @@ I fell for the magnificence of technology during 8th grade and since have had a 
 I've had quite a few setbacks and still do, but nothing is enough to make me give up. I will become the best and I give my word for it.
 
 Thanks for the read.
-
-** BIG THINGS COMING! **
