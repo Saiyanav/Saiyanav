@@ -1,10 +1,10 @@
 # Arnav Thakur  
 
-**`Programmer – LeetCoder – Cinematographer.`**
+**`Programmer – LeetCoder – Cinematographer`**
 
-A computer-science major focused on building applications and APIs that enhance data access to better liberate society. I aim to push beyond mediocrity and be in the top 1%. 
+A CS major focused on building applications and APIs that enhance data access to better liberate society. I aim to push beyond mediocrity and be in the top 1%. 
 
-I fell for the magnificence of technology during 8th grade and since have had a vision to create something for people and provide opportunities for others. My aim is simple – hustle for the things I desire to achieve, including giving my parents the life of their dreams, never needing to rely on anybody else financially, and to be an example to this generation by leaving a legacy.
+I fell for the magnificence of technology during 8th grade and since have had a vision to create something for people and provide opportunities for others. My aim is simple – hustle for the things I desire to achieve, including; giving my parents the life of their dreams, never needing to rely on anybody else financially, and to be an example to this generation.
 
 I've had quite a few setbacks and still do, but nothing is enough to make me give up. I will become the best and I give my word for it.
 
