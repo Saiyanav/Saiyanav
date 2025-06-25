@@ -1,6 +1,6 @@
 **`Engineer | Filmmaker | Symmetric Metatheorist`**
 
-● CS major @ **SU**
+◉ CS major @ **SU**
 
 ● SWE Intern @ **HCLTech**
 
