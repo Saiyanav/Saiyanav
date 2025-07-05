@@ -1,4 +1,4 @@
-**`Engineer | Filmmaker | Symmetric Metatheorist`**
+**`engineer, filmmaker, symmetric metatheorist`**
 
 - CS major @ **SU**
 - SWE Intern @ **HCLTech**
