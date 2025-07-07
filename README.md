@@ -1,4 +1,4 @@
-**`20 | engineer & symmetric metatheorist`**
+**`20 / engineer & symmetric metatheorist`**
 
 - CS major @ **SU**
 - SWE Intern @ **HCLTech**
