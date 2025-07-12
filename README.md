@@ -1,5 +1,5 @@
 **`20 / engineer & symmetric metatheorist`**
 
-☄️ swe intern @ **hcltech**
+- swe intern @ **hcltech**
 
-☄️ focused on building applications & APIs to better liberate society.
+- focused on building applications & APIs to better liberate society.
