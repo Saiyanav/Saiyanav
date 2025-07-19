@@ -6,8 +6,4 @@
 
 Interested in the convergence of computer science and finance with a deep curiosity in AI, ML, and their future applications. 
 
-***Push.***
-
-***Beyond.***
-
-***Mediocrity.***
+***Push.*** ***Beyond.*** ***Mediocrity.***
