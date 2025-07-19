@@ -1,5 +1,3 @@
-**`20 / engineer & symmetric metatheorist`**
+**`20, engineer.`**
 
-- swe intern @ **hcltech**
-
-- focused on building applications & APIs to better liberate society.
+Interested in the convergence of computer science and finance with a deep curiosity in artificial intelligence, machine learning, and their future applications. The aim is to push beyond mediocrity.
