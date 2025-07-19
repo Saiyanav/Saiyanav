@@ -6,4 +6,8 @@
 
 Interested in the convergence of computer science and finance with a deep curiosity in AI, ML, and their future applications. 
 
-The aim is to push beyond mediocrity.
+***Push.***
+
+***Beyond.***
+
+***Mediocrity.***
