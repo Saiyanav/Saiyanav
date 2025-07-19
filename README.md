@@ -2,4 +2,6 @@
 
 ![Ichigo Kurosaki](https://media.giphy.com/media/JLYQnbND9gkYU/giphy.gif)
 
-Interested in the convergence of computer science and finance with a deep curiosity in artificial intelligence, machine learning, and their future applications. The aim is to push beyond mediocrity.
+Interested in the convergence of computer science and finance with a deep curiosity in artificial intelligence, machine learning, and their future applications. 
+
+The aim is to push beyond mediocrity.
